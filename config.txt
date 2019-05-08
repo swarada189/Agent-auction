@@ -1,0 +1,7 @@
+no_of_bidders 3
+purchase_price 10
+reserve_price 8
+initial_price 15
+eng_perc 0.2
+dutch_perc 0.09
+n 4
